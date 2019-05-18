@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "8W9Q68JU5T.com.0xgames.0xplugins",
+                "paths": [
+                    "/*",
+                    "/0xplugins",
+                    "/0xplugins/*"
+                ]
+            }
+        ]
+    }
+}
